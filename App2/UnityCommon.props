@@ -1,0 +1,9 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <UnityWSASolutionName>Augd-Holo-kata-</UnityWSASolutionName>
+        <UnityWSASolutionDir>C:\Users\clara\Documents\UEC and other\PhD\Projects\Augmented Dodgeball Display\Azuma\Unityプロジェクト本体\Augd-Android\App2\</UnityWSASolutionDir>
+        <UnityProjectDir>C:\Users\clara\Documents\UEC and other\PhD\Projects\Augmented Dodgeball Display\Azuma\Unityプロジェクト本体\Augd-Android\</UnityProjectDir>
+        <UnityWSAPlayerDir>C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
+        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
+    </PropertyGroup>
+</Project>

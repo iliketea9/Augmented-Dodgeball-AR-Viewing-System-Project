@@ -1,0 +1,9 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <UnityWSASolutionName>Augd-Holo-kata-</UnityWSASolutionName>
+        <UnityWSASolutionDir>C:\Users\sazuma\Documents\Augd-Android\WindowsStoreApp\</UnityWSASolutionDir>
+        <UnityProjectDir>C:\Users\sazuma\Documents\Augd-Android\</UnityProjectDir>
+        <UnityWSAPlayerDir>C:\Program Files\Unity5.6.3p4\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
+        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
+    </PropertyGroup>
+</Project>

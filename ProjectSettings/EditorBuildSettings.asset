@@ -1,0 +1,139 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/HoloToolkit/Utilities/Scenes/SceneLauncher.unity
+    guid: fd656d2febd0dea46b3825b704706806
+  - enabled: 0
+    path: Assets/Android-From-Cam.unity
+    guid: 76cdc9fea36b1194fb259f05193ee14b
+  - enabled: 0
+    path: Assets/Android-From-Cam-TCP.unity
+    guid: c5c391ca182744640972aed1fce6b66c
+  - enabled: 1
+    path: Assets/Android-Demo.unity
+    guid: c5504bbde9de2004fba1d50181e8e83c
+  - enabled: 0
+    path: Assets/HoloToolkit/Utilities/Scenes/HeadsetAdjustment.unity
+    guid: 6328c96cc619a8b41a866766f9513e17
+  - enabled: 0
+    path: Assets/Android-From-Cam-UDP.unity
+    guid: c3410a68c738d8e44a9cebdf8bdff979
+  - enabled: 0
+    path: Assets/Android-OSC-Test.unity
+    guid: 4bfab9e275d913c459ccd35fac7d275a
+  - enabled: 1
+    path: Assets/Augd-Holo-Demo.unity
+    guid: 5261a7ee429c1cf4aab74dc190f352cc
+  - enabled: 0
+    path: Assets/uOSC/Examples/Scenes/Blob.unity
+    guid: a0ace38c66dcf44898cffb8baf34fcd2
+  - enabled: 0
+    path: Assets/uOSC/Examples/Scenes/Bundle.unity
+    guid: 11535c07a2b95472399dc7f854442c78
+  - enabled: 0
+    path: Assets/HoloToolkit-Examples/Prototyping/Scenes/ClickThroughExample.unity
+    guid: 24e0df9a7b63a604eace8f882d39e98b
+  - enabled: 0
+    path: Assets/uOSC/Examples/Scenes/Client.unity
+    guid: 4050a1969537d4d0c8a7c07807e1c44c
+  - enabled: 0
+    path: Assets/uOSC/Examples/Scenes/Client to Server.unity
+    guid: e991686654be84140ac84795a6d4a09d
+  - enabled: 0
+    path: Assets/HoloToolkit-Examples/Prototyping/Scenes/ColorCycleSwitcher.unity
+    guid: c5d76c322e95d5d45b021d9e3d78fafd
+  - enabled: 0
+    path: Assets/HoloToolkit-Examples/ColorPicker/ColorPickerExample.unity
+    guid: 1f4ed52dbc84cd048b7bbc3bb22bebbf
+  - enabled: 0
+    path: Assets/HoloToolkit-Examples/Prototyping/Scenes/CycleArray.unity
+    guid: 842aaaa8d5f4e0a44bf6b487f95b2f15
+  - enabled: 1
+    path: Assets/DB-connection-test.unity
+    guid: 81e27fea70bd642448a9e520c9b6a13f
+  - enabled: 0
+    path: Assets/HoloToolkit-Examples/FastConfigurableShader/Scenes/DoubleSidedTest.unity
+    guid: 1630319a02ad3044e81c55a502c31977
+  - enabled: 0
+    path: Assets/HoloToolkit-Examples/FastConfigurableShader/Scenes/FastConfigurableTest.unity
+    guid: cf2a3f370ae2cb74088eb10cbebcf604
+  - enabled: 0
+    path: Assets/HoloToolkit-Examples/GameControllerManipulator/GameControllerManipulatorTest.unity
+    guid: 4c24018e3fa70c94d8558b3f5fe26dc1
+  - enabled: 0
+    path: Assets/HoloToolkit-Examples/GazeRuler/Scenes/GazeRulerExample.unity
+    guid: 5cfd18f07ba96e54eb82e85707f53c58
+  - enabled: 0
+    path: Assets/HoloToolkit-Examples/GazeRuler/Scenes/GazeRulerTest.unity
+    guid: 98b4276a4908e8544962aff672973b42
+  - enabled: 0
+    path: Assets/HoloToolkit-Examples/InteractiveElements/Scenes/GestureInteractiveExample.unity
+    guid: 129aec1ffadcd134791d142340881afb
+  - enabled: 0
+    path: Assets/Holo-From-Cam.unity
+    guid: b551ecac4a20c0f4aa14ee3269a3d87f
+  - enabled: 0
+    path: Assets/Holo-From-Cam-TCP.unity
+    guid: 9d21be9c9f476b748bd3f3a855edd224
+  - enabled: 0
+    path: Assets/Holo-From-Cam-UDP.unity
+    guid: 7c3ef988657948b48aa159082fb51c7a
+  - enabled: 0
+    path: Assets/Holo-Register.unity
+    guid: a5610e8ffa6259f4e8bc0ff5367db43b
+  - enabled: 1
+    path: Assets/Holo-Vuforia-Demo.unity
+    guid: 6de7b745969b74146a12aa9dc919c08b
+  - enabled: 1
+    path: Assets/Holo-Vuforia-Demo-MoreKotei.unity
+    guid: 1db7ea862a47f5648b16c1f397ae0d60
+  - enabled: 0
+    path: Assets/HoloLens_registration_Vuforia_toDB.unity
+    guid: 68b130ed49635384399dad14919b9f4d
+  - enabled: 1
+    path: Assets/HoloLensDemo.unity
+    guid: ea1ae3a691c5ec0418f68c04dcc7e5ee
+  - enabled: 0
+    path: Assets/HoloToolkit-Examples/InteractiveElements/Scenes/InteractiveButtonComponents.unity
+    guid: b20ddbd2fc80f1e4eae9a3d9f6fffecb
+  - enabled: 0
+    path: Assets/HoloToolkit-Examples/InteractiveElements/Scenes/InteractiveExample.unity
+    guid: 9800082610e23d749aa87947090ac967
+  - enabled: 0
+    path: Assets/HoloToolkit-Examples/Prototyping/Scenes/PlanelLayout.unity
+    guid: 1ad7ea4cb1f510f42959e6c3a96fcd16
+  - enabled: 0
+    path: Assets/HoloToolkit-Examples/Prototyping/Scenes/PositionAnObject.unity
+    guid: b0ae689c40c1c5f4799a829149d9270d
+  - enabled: 0
+    path: Assets/HoloToolkit-Examples/SavingSpatialMeshes/SaveSpatialMapping.unity
+    guid: 537fc086ebd88124ba24a90db8110d2f
+  - enabled: 0
+    path: Assets/HoloToolkit-Examples/SavingSpatialMeshes/SaveSpatialUnderstanding.unity
+    guid: 8d26b343ca0a41443aeaaf0796b6703d
+  - enabled: 0
+    path: Assets/HoloToolkit-Examples/Prototyping/Scenes/ScaleObjectByDistance.unity
+    guid: 356db9551bf75544a818c0f74406188e
+  - enabled: 0
+    path: Assets/uOSC/Examples/Scenes/Server.unity
+    guid: 664592c5d4b0c441ea8b1c68adb4de2f
+  - enabled: 0
+    path: Assets/HoloToolkit-Examples/SharingWithUNET/Scenes/sharingwithunet.unity
+    guid: 2cb8a97d98d81224c8b7d0495d361558
+  - enabled: 0
+    path: Assets/HoloToolkit-Examples/InteractiveElements/Scenes/SliderSamples.unity
+    guid: 24e56719c50827c488962b4249d4a70d
+  - enabled: 0
+    path: Assets/HoloToolkit-Examples/SpatialMappingComponent/SpatialMappingExample.unity
+    guid: ea56028b40360484c931ea1afbfd8a5d
+  - enabled: 0
+    path: Assets/HoloToolkit-Examples/SpatialUnderstanding/SpatialUnderstanding-FeatureOverview/Scenes/SpatialUnderstandingExample.unity
+    guid: 7ecf1c34f0ac4b4449076e91efc011be
+  - enabled: 0
+    path: Assets/HoloToolkit-Examples/Text/TextPrefabSamplesTest.unity
+    guid: 46e5a7f78dc41fb4fa39691cc18cdc20

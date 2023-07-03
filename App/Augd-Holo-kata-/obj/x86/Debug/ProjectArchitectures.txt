@@ -1,0 +1,4 @@
+C:\Users\clara\Documents\PhD\Augmented Dodgeball\Azuma\東将大\Unityプロジェクト本体\Augd-Android\App\Augd-Holo-kata-\Augd-Holo-kata-.csproj;x86
+C:\Users\clara\Documents\PhD\Augmented Dodgeball\Azuma\東将大\Unityプロジェクト本体\Augd-Android\App\GeneratedProjects\UWP\Assembly-CSharp\Assembly-CSharp.csproj;x86
+C:\Users\clara\Documents\PhD\Augmented Dodgeball\Azuma\東将大\Unityプロジェクト本体\Augd-Android\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86
+C:\Users\clara\Documents\PhD\Augmented Dodgeball\Azuma\東将大\Unityプロジェクト本体\Augd-Android\App\GeneratedProjects\UWP\Assembly-CSharp-firstpass\Assembly-CSharp-firstpass.csproj;x86

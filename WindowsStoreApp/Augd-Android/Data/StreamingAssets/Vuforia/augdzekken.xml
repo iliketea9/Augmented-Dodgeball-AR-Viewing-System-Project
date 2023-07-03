@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="zekken8" size="0.600000 0.786857" />
+    <ImageTarget name="zekken7" size="0.700000 0.903654" />
+    <ImageTarget name="zekken6" size="0.600000 0.746041" />
+    <ImageTarget name="zekken3" size="0.600000 0.766901" />
+    <ImageTarget name="zekken2" size="0.600000 0.782866" />
+    <ImageTarget name="zekken1" size="0.600000 0.759451" />
+  </Tracking>
+</QCARConfig>

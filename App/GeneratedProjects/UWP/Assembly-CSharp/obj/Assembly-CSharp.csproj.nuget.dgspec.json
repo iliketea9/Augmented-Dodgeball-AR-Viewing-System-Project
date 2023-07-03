@@ -1,0 +1,109 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\clara\\Documents\\PhD\\Augmented Dodgeball\\Azuma\\東将大\\Unityプロジェクト本体\\Augd-Android\\App\\GeneratedProjects\\UWP\\Assembly-CSharp\\Assembly-CSharp.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\clara\\Documents\\PhD\\Augmented Dodgeball\\Azuma\\東将大\\Unityプロジェクト本体\\Augd-Android\\App\\GeneratedProjects\\UWP\\Assembly-CSharp-firstpass\\Assembly-CSharp-firstpass.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\clara\\Documents\\PhD\\Augmented Dodgeball\\Azuma\\東将大\\Unityプロジェクト本体\\Augd-Android\\App\\GeneratedProjects\\UWP\\Assembly-CSharp-firstpass\\Assembly-CSharp-firstpass.csproj",
+        "projectName": "Assembly-CSharp-firstpass",
+        "projectPath": "C:\\Users\\clara\\Documents\\PhD\\Augmented Dodgeball\\Azuma\\東将大\\Unityプロジェクト本体\\Augd-Android\\App\\GeneratedProjects\\UWP\\Assembly-CSharp-firstpass\\Assembly-CSharp-firstpass.csproj",
+        "projectJsonPath": "C:\\Users\\clara\\Documents\\PhD\\Augmented Dodgeball\\Azuma\\東将大\\Unityプロジェクト本体\\Augd-Android\\App\\GeneratedProjects\\UWP\\Assembly-CSharp-firstpass\\project.json",
+        "packagesPath": "C:\\Users\\clara\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\clara\\Documents\\PhD\\Augmented Dodgeball\\Azuma\\東将大\\Unityプロジェクト本体\\Augd-Android\\App\\GeneratedProjects\\UWP\\Assembly-CSharp-firstpass\\obj\\",
+        "projectStyle": "ProjectJson",
+        "configFilePaths": [
+          "C:\\Users\\clara\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        }
+      },
+      "dependencies": {
+        "Microsoft.NETCore.UniversalWindowsPlatform": "[5.0.0, )"
+      },
+      "frameworks": {
+        "uap10.0.10240": {}
+      },
+      "runtimes": {
+        "win10-arm": {
+          "#import": []
+        },
+        "win10-arm-aot": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x64-aot": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        },
+        "win10-x86-aot": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\clara\\Documents\\PhD\\Augmented Dodgeball\\Azuma\\東将大\\Unityプロジェクト本体\\Augd-Android\\App\\GeneratedProjects\\UWP\\Assembly-CSharp\\Assembly-CSharp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\clara\\Documents\\PhD\\Augmented Dodgeball\\Azuma\\東将大\\Unityプロジェクト本体\\Augd-Android\\App\\GeneratedProjects\\UWP\\Assembly-CSharp\\Assembly-CSharp.csproj",
+        "projectName": "Assembly-CSharp",
+        "projectPath": "C:\\Users\\clara\\Documents\\PhD\\Augmented Dodgeball\\Azuma\\東将大\\Unityプロジェクト本体\\Augd-Android\\App\\GeneratedProjects\\UWP\\Assembly-CSharp\\Assembly-CSharp.csproj",
+        "projectJsonPath": "C:\\Users\\clara\\Documents\\PhD\\Augmented Dodgeball\\Azuma\\東将大\\Unityプロジェクト本体\\Augd-Android\\App\\GeneratedProjects\\UWP\\Assembly-CSharp\\project.json",
+        "packagesPath": "C:\\Users\\clara\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\clara\\Documents\\PhD\\Augmented Dodgeball\\Azuma\\東将大\\Unityプロジェクト本体\\Augd-Android\\App\\GeneratedProjects\\UWP\\Assembly-CSharp\\obj\\",
+        "projectStyle": "ProjectJson",
+        "configFilePaths": [
+          "C:\\Users\\clara\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "uap10.0.10240": {
+            "projectReferences": {
+              "C:\\Users\\clara\\Documents\\PhD\\Augmented Dodgeball\\Azuma\\東将大\\Unityプロジェクト本体\\Augd-Android\\App\\GeneratedProjects\\UWP\\Assembly-CSharp-firstpass\\Assembly-CSharp-firstpass.csproj": {
+                "projectPath": "C:\\Users\\clara\\Documents\\PhD\\Augmented Dodgeball\\Azuma\\東将大\\Unityプロジェクト本体\\Augd-Android\\App\\GeneratedProjects\\UWP\\Assembly-CSharp-firstpass\\Assembly-CSharp-firstpass.csproj"
+              }
+            }
+          }
+        }
+      },
+      "dependencies": {
+        "Microsoft.NETCore.UniversalWindowsPlatform": "[5.0.0, )"
+      },
+      "frameworks": {
+        "uap10.0.10240": {}
+      },
+      "runtimes": {
+        "win10-arm": {
+          "#import": []
+        },
+        "win10-arm-aot": {
+          "#import": []
+        },
+        "win10-x64": {
+          "#import": []
+        },
+        "win10-x64-aot": {
+          "#import": []
+        },
+        "win10-x86": {
+          "#import": []
+        },
+        "win10-x86-aot": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
